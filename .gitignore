@@ -1,3 +1,9 @@
+# training outputs
+checkpoints
+
+# Big nasty database
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
